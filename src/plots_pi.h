@@ -113,7 +113,7 @@ double heading_resolve(double degrees, double ref=0);
 class PlotsDialog;
 class PreferencesDialog;
 
-class plots_pi : public wxEvtHandler, public opencpn_plugin_117
+class plots_pi : public wxEvtHandler, public opencpn_plugin_118
 {
 public:
       plots_pi(void *ppimgr);
